@@ -2,7 +2,7 @@
 
 A simple To do List web application built with HTML, CSS, and JavaScript that allows you to manage tasks and save them locally using LocalStorage. Visit the app at:
 
-[To do list](https://federico-projects.github.io/To-do-list/)
+[To do list](https://federico-lin26.github.io/To-do-list/)
 
 ---
 
